@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="bill_please">Bill Please!</string>
+    <string name="amount">AMOUNT</string>
+    <string name="number_of_pax">NUMBER OF PAX</string>
+    <string name="discount">DISCOUNT (%)</string>
+    <string name="add_ons">ADD-ONS</string>
+    <string name="no_svc">NO SVC</string>
+    <string name="svc">SVC</string>
+    <string name="no_gst">NO GST</string>
+    <string name="gst">GST</string>
+    <string name="payment_method">PAYMENT METHOD</string>
+    <string name="cash">CASH</string>
+    <string name="paynow">PAYNOW</string>
+    <string name="total_bill">TOTAL BILL</string>
+    <string name="amount_payable_per_pax">AMOUNT PAYABLE PER PAX</string>
+    <string name="via">VIA</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+
+</resources>
